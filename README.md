@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://turtelli.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/brand/Turtelli-logo-white.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="docs/brand/turtelli-logo-white.svg">
       <img alt="Turtelli" src="docs/brand/Turtelli-logo.svg" width="200">
     </picture>
   </a>
